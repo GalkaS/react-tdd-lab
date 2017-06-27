@@ -1,4 +1,3 @@
-# TDD with React, Jest and Enzyme
 
 ## Prerequisites
 * nodejs >= 6 (see https://nodejs.org/en/download/ )
